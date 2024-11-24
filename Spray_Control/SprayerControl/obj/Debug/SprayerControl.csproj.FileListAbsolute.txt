@@ -1,0 +1,14 @@
+C:\Users\Ff\source\repos\SprayerControl\SprayerControl\obj\Debug\SprayerControl.csproj.AssemblyReference.cache
+C:\Users\Ff\source\repos\SprayerControl\SprayerControl\obj\Debug\ArduinoControlApp.Form1.resources
+C:\Users\Ff\source\repos\SprayerControl\SprayerControl\obj\Debug\SprayerControl.Properties.Resources.resources
+C:\Users\Ff\source\repos\SprayerControl\SprayerControl\obj\Debug\SprayerControl.csproj.GenerateResource.cache
+C:\Users\Ff\source\repos\SprayerControl\SprayerControl\obj\Debug\SprayerControl.csproj.CoreCompileInputs.cache
+C:\Users\Ff\source\repos\SprayerControl\SprayerControl\bin\Debug\SprayerControl.exe.config
+C:\Users\Ff\source\repos\SprayerControl\SprayerControl\bin\Debug\SprayerControl.exe
+C:\Users\Ff\source\repos\SprayerControl\SprayerControl\bin\Debug\SprayerControl.pdb
+C:\Users\Ff\source\repos\SprayerControl\SprayerControl\obj\Debug\SprayerControl.exe
+C:\Users\Ff\source\repos\SprayerControl\SprayerControl\obj\Debug\SprayerControl.pdb
+C:\Users\Ff\Desktop\Sprayer\SprayerControl.exe.config
+C:\Users\Ff\Desktop\Sprayer\SprayerControl.exe
+C:\Users\Ff\Desktop\Sprayer\SprayerControl.pdb
+C:\Users\Ff\source\repos\SprayerControl\SprayerControl\obj\Debug\SprayerControl.HelpForm.resources
